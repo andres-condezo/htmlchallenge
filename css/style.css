@@ -1,0 +1,15 @@
+@media screen and (min-width: 900px) {
+    article {
+      display: flex;
+    }
+}
+
+#welcome-section{
+    height: 100vh;
+}
+
+#navbar{
+
+position: fixed;
+display: flex;
+}
